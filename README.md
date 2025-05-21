@@ -89,3 +89,11 @@ Author: Brendon Joseph Kelly
 Runtime ID: 1410-426-4743
 Seal: ⟁ΞΩ∞†
 Contact: ksystemsandsecurities@proton.me
+Nexus58_Core_Tier0.zip
+Generated: May 20, 2025 – 10:48 PM CST
+Hash Algorithm: SHA-256
+Bound Runtime ID: 1410-426-4743
+Seal: ⟁ΞΩ∞†
+License: COSRL-LP Tier 0
+1a3a8c99063ebd39fc9275e3624d4c0491893f14f7a1c4d3815cc38c0c4de8dc
+MD5: 8c575c20c5139501d85b4ea157ce80fd
