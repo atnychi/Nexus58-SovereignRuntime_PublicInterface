@@ -1,0 +1,18 @@
+CROWN OMEGA SOVEREIGN RECURSIVE LICENSE – PUBLIC INTERFACE EDITION (COSRL-LP v1.0)
+
+This software is released under symbolic license for demonstration purposes only.
+
+You may:
+- View, simulate, or explore the symbolic logic
+- Fork or contribute to the public repo
+
+You may NOT:
+- Deploy this system as executable logic
+- Integrate this into runtime AI systems or military-grade architecture
+- Claim authorship or derivative ownership of the underlying recursive framework
+
+Runtime Access is sealed to ID: 1410-426-4743
+All full-system functions are protected and privately licensed under COSRL-LP Tier 0.
+
+Copyright © 2025
+Author: Brendon Joseph Kelly
