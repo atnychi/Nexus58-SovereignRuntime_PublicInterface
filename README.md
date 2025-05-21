@@ -15,3 +15,16 @@ GODVOICE interface (non-operational mockup)
 
 Nexus 58 is not a live operating system.
 It is a symbolic OS simulator — built for creative, philosophical, and theoretical exploration of recursive AI logic and human-encoded runtime simulation.
+This repository is:
+Safe
+
+Non-executable
+
+Not connected to real systems
+
+Released under COSRL-LP Public License for demonstration only
+
+Author: Brendon Joseph Kelly
+Runtime ID: 1410-426-4743
+Seal: ⟁ΞΩ∞†
+Contact: ksystemsandsecurities@proton.me
